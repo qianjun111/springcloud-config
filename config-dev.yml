@@ -1,2 +1,2 @@
 config:
-  type: dev
+  type: dev,version=1
